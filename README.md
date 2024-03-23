@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### 我是诨号无敌鸭
+### 一名大二在校生
 
 <!--
 **Serendipityzhezi/Serendipityzhezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
